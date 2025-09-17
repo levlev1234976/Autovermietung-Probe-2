@@ -27,9 +27,9 @@ Fahrzeuge können unverbindlich per Mail, Telefon oder über social Media angefr
 ---
 
 ## 📂 Kontakt
-- **Mail:** grandcarrent@gmail.com
-- **Telefon:**  +49 151 41645010
--               +49 173 6316942 
-- **Instagram:** GrandCarRent
-- **Tiktok:** GrandCarRent.tt
+- **Mail:**       info@grandcarrent.de
+- **Telefon:**    +49 151 41645010
+-                 +49 173 6316942 
+- **Instagram:**  GrandCarRent
+- **Tiktok:**     GrandCarRent.tt
 
